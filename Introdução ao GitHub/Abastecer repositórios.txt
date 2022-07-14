@@ -1,0 +1,19 @@
+GitHub para PC:
+
+Iniciamente crie a pasta destino e abra o Git Bash Here.
+Copie o HTTPS do repositório
+no Git Bash digite: git clone e cole o link copiado(paste).
+
+
+PC para GitHub:
+
+Abrir o Git Bash Here pela pasta.
+    Escreva: git status
+Se houver alguma modificação ele irá avisar, neste caso,
+    Escreva: git add . (tem ponto mesmo no final)
+O git entende que você quer enviar um arquivo ao aparecer uma mensagem em verde.
+    Escreva: git commit -m "aqui um comentário relevante ao que esta sendo editado"
+Se quiser, dê um git status para visualizar.
+    Escreva: git push origin main
+
+//quando fiz a primeira vez deu erro, tudo bem, na segunda deu certo!

@@ -1,0 +1,23 @@
+Comandos:
+
+Windowns: 
+ls = listar
+cd = navegar entre as pastas
+dir = listar diretórios da pasta
+mkdir = criar diretório
+rmdir = deletar diretório
+del = deletar aquivo do diretório
+cls = limpa a tela (atalho: Ctrl + L)
+echo = 
+
+git init = 
+git config = 
+git status = 
+git add = adicionar novos arquivos no repositório
+git commit = 
+
+
+flags:
+
+-a = mostrar pastas ocultas
+-m = mensagem que será gravada no commit
